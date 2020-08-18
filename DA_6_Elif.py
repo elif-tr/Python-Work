@@ -75,3 +75,4 @@ def plot1(imdb_df, movie_list):
 #Test
 df=processFiles("data")
 y=plot1(df, ["12 Years a Slave","The Girl with the Dragon Tattoo", 'The Hunger Games: Catching Fire'])
+print(y)
